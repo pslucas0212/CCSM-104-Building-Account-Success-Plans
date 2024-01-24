@@ -86,11 +86,11 @@ Success doesn't haven't by access.  It's cumulative action take for and on behal
 3. Map the customer organization
 4. Arranging the kick0ff meeitn
 5. conduct the initial meeting
-  -   Review what was purchase
-  -   Establish timeline
-  -   Setting Expectations
-  -   Explaining methodology
-  -   Overview of approach/gneral deployment plan actions and give/s gets
+    -   Review what was purchase
+    -   Establish timeline
+    -   Setting Expectations
+    -   Explaining methodology
+    -   Overview of approach/gneral deployment plan actions and give/s gets
 6. Post Meeting Follow up
 7. Setup Discovery Sessions
 
