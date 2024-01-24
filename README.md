@@ -81,17 +81,17 @@ Success doesn't haven't by access.  It's cumulative action take for and on behal
 #### Pre-work and Kickoff
 - initial engagement with customer.  Highly crtical.  Research customer.  Get knwoldege transfer from customer.  Get grounding in customer and motivators and why they bought your solution.
 - Initial kick-off meeting.  Don't combine with discovery serssion  This an opportunity to know the stakeholders, how things are going to work, etc.
-- Knowledge Transfer from slaes
-- Research on customer
-- Map the customer organization
-- Arranging the kick0ff meeitn
-- conduct the initial meeting
--   Review what was purchase
--   Establish timeline
--   Setting Expectations
--   Explaining methodology
--   Overview of approach/gneral deployment plan actions and give/s gets
-- Post Meeting Follow up
-- Setup Discovery Sessions
+1. Knowledge Transfer from slaes
+2. Research on customer
+3. Map the customer organization
+4. Arranging the kick0ff meeitn
+5. conduct the initial meeting
+  -   Review what was purchase
+  -   Establish timeline
+  -   Setting Expectations
+  -   Explaining methodology
+  -   Overview of approach/gneral deployment plan actions and give/s gets
+6. Post Meeting Follow up
+7. Setup Discovery Sessions
 
 
