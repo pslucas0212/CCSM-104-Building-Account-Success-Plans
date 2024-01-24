@@ -134,3 +134,31 @@ Keys to good discovery session
 3. Test criteria to make you can 
 
 
+#### Build Success Canvas
+- Here is one example.  This is a living document with key elements of an engagement.  Mold the canvas to your needss.  A greate starting point
+
+Canvas
+1. Company Highlaights
+2. Objectives - Enumerate objectives
+3. Key Challenges for the engagemet
+4. Key Benefits that the customer is expecting
+5. Milestones and actions and dataets to be delivered according to the customers timelin
+6. success criteria
+7. Measures of success
+
+#### Success Plan Review
+1. Conduct initial internal review of the success plan
+2. Setup an intial review with key customer contact to acid test
+3. Review session plan for any gaps or areas that require refinement
+4. Setup review key contact and key stakeholder
+5. Share with entire customer team after approved by key stakeholder and key contact
+
+#### Ongoing activities
+- Reviews, QBRs, communication around key milestones and dates.
+
+1. udpate succes plan is implementaiton progresses update dates as needed
+2. Provide status updates
+3. Revisit plan regularly
+4. Conduct QBRs as you are moving towards objectives and overall success
+
+
