@@ -34,4 +34,33 @@ Journey Planning:
 1. Not enought time - to understand customer's definition of succes and build a plan to help the customer
 2. Not enought information about the customer.  At least the perception that there is not enough information.  Why did the cusotmer to you and what problems were they trying to solve.
 3. Not enought value - customer doesn't perceive enought value from the success plan.  The customer doesn't fully engage in the process and its hard to drive more value.  If you are building the plan you need to engage the customer in the plan.  You do the plan to create value for the customer.  First order value for the customer and second order value for you to learn more about your customer.
-4. 
+
+### What does an effective succe plan look like
+Success plans detail the path towards achieving the business outcomes.  
+
+Key Ingredients to an effective success plan
+1. Succss plans are proactive.  THis is not a get well plan which is reactive solve problems
+2. Success Plans are most powerful when shared with customers.  This is not an internal document  More powerful when its a colloboration with the customer.
+3. Plans are always update.  The success plan is a living document that needs to be regularly updated.  How ofte will you update the plan.  These plans aren't updated everyday as they are strategic plans.  Quarterly, bi-annually, etc.  Customer goals may change which require an update to the success plan
+
+### Things to include in a success plan
+1. Company Highlights.  Need to be able to understand the success plan quickly. Brief description of the customer/company.  What do they do, the vertical they are in...
+2. Objectives.  What are we working towards.  Pain points to resolve, gains expecting to experience.  Expecting some value
+3. Key Challenges.  WHat's the compelling event that drove the customer to your solution.  Any other constraints...
+4. Key Benefits the customer is expecting.
+5. Milestones, Actions and Dates.  What needs to be done by who to acheive a milestone
+6. Success Criteria.   Sentence or two what the company defines as success.  Highlevel
+7. Measures of success.  How does the customer quantify success.  Mapped back to the key benefits that the customer is expecting.  We can then compare and use the agreed metrics to measure success
+
+## Common Misconceptions
+1. Success Plans are only for high-touch high value accounts.  Success plans can and should be constructed for all customers no matter the size.  Find ways to collect customer information and colloborate
+2. Success plans are for internal use only.  Wrong.  Success plans should be share with the customer
+3. They are one time planning tool.  Wrong.  Success plans are living documents.  Visited oftend and updated as needed
+4. Success plans take a long time to put together.  FOr biggest accounts they can be very extensive.   Using 7 keys to success makes building them easier and more efficient
+5. Succss plans can't be done at scale.  Start with automted success plans with smaller customers
+
+- Onboarding flows ask questions about goals when using the app.  This collects good data for a success plan.
+- In-app profileing and assistance can assist with creating a success plan for low-touch customers.
+- Simple email surveys.
+- Provide help by giving options in the answers.  There are a set common business challenges that most customers experience and the predefined options help the customer.
+- Segment customers based on responses.  Apply single success plan to that customer segement
