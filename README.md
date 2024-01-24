@@ -84,7 +84,7 @@ Success doesn't haven't by access.  It's cumulative action take for and on behal
 1. Knowledge Transfer from slaes
 2. Research on customer
 3. Map the customer organization
-4. Arranging the kick0ff meeitn
+4. Arranging the kickoff meeitn
 5. conduct the initial meeting
     -   Review what was purchase
     -   Establish timeline
@@ -93,5 +93,44 @@ Success doesn't haven't by access.  It's cumulative action take for and on behal
     -   Overview of approach/gneral deployment plan actions and give/s gets
 6. Post Meeting Follow up
 7. Setup Discovery Sessions
+
+#### Discover Session
+- Get the customer talking about what they want to do
+- Their expectation for success
+- What is movitating them
+
+Keys to good discovery session
+1. Pre-meeting review of attendees from customer, job roles and project roles.  Do they support the project or will they impede the project
+2. Set and provide agenda for discover session.
+3. Provide any pre-work or materials that you need completed prior to session
+4. Provide the areas that you will be exploring during the session and any pre-meeting requirements
+5. Conduct the discovery session - should be delivered in a buttoned up fashion.  You are in the driver's session.  You own the delivery
+6. Post meeting Follow-up.  Send out list of action itmes.  Questions of open topics
+7. Setup any require follow-on sessions.  Only bring folks in that you really need
+
+#### Success Assessment
+- evaluation information gathered against the key requirements
+
+1. Compile kick-off and discover session notes, review questionniares and other key materials
+2. Determin what success looks like to customer
+3. assess timeline and objectives
+4. Determine any challenges or impediment to delivering a successful otucome
+5. Review output with your sales counterpart and leadership to determine how to overcome or mitigate the uncovered challenges
+6. Document challenges to discuss with customer as appropriate
+
+#### Establish Milestones and Build Action Plan
+- Create action plan to describe the how with milestones and dates
+
+1. Identify Key milestones first
+2. Work backwords from expectied delivery date to fill in the rest of milestone dates
+3. After milestones and key dates are estabilshed, create a laundry list of activates and tasks that must completed to deliver the milestones
+
+#### Define Success Criteria and Measures
+- The customer's definition of success
+- Must be able to quantify success to measure progress towards a goal
+
+1. Begin with overall defination of success
+2. Deconstricut your definition of succes to identify the key elements that makes of the definition of success
+3. Test criteria to make you can 
 
 
