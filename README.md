@@ -66,3 +66,32 @@ Key Ingredients to an effective success plan
 - Segment customers based on responses.  Apply single success plan to that customer segement
 
 ## Building Success Plans
+Success doesn't haven't by access.  It's cumulative action take for and on behalf of the customer.  Success plan is a set of guideline, not a set of rules.  
+
+### Success Plan Process 
+1. Pre-work & kick-off
+2. Discovery Session - Getting the key information to build the pland and understanding what the customer expects
+3. Success Assessment - Understand if we have everything we need and the customer expectations are line with what we can deliver.
+4. Establish Milestones & Build Action Plan
+5. Define Success Criteria & Measures - You must be able to measure progress towards and achievement of success
+6. Build Succes Plan Canvas
+7. Succes Plan Review - Gain acceptance from customer that you've nailed what success looks like to them
+8. Ongoing Activities - Training, etc. delivery of QBRs, delivery of success.  Refreshing success plan as needed.  Maybe add new phases to success Plan
+
+#### Pre-work and Kickoff
+- initial engagement with customer.  Highly crtical.  Research customer.  Get knwoldege transfer from customer.  Get grounding in customer and motivators and why they bought your solution.
+- Initial kick-off meeting.  Don't combine with discovery serssion  This an opportunity to know the stakeholders, how things are going to work, etc.
+- Knowledge Transfer from slaes
+- Research on customer
+- Map the customer organization
+- Arranging the kick0ff meeitn
+- conduct the initial meeting
+-   Review what was purchase
+-   Establish timeline
+-   Setting Expectations
+-   Explaining methodology
+-   Overview of approach/gneral deployment plan actions and give/s gets
+- Post Meeting Follow up
+- Setup Discovery Sessions
+
+
