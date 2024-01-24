@@ -64,3 +64,5 @@ Key Ingredients to an effective success plan
 - Simple email surveys.
 - Provide help by giving options in the answers.  There are a set common business challenges that most customers experience and the predefined options help the customer.
 - Segment customers based on responses.  Apply single success plan to that customer segement
+
+## Building Success Plans
