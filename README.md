@@ -1,3 +1,4 @@
+
 # CCSM-104: Building Account Success Plans
 
 
@@ -22,3 +23,15 @@ Journey Planning:
 2. Clarify where they want to get to.  What does success utlimately look like
 3. Identify when they want to get there.  How quickly do they want to acheive the outcome/value.  Fast or slow.  THis will depend on business priorities and any constraints
 4. Layout how they want to get there.  Some customers have a higher tolerance for more risks (errors).  Some customers want to minimize risks.
+
+## Anatomy of A Success Plan
+1. Where are they on their journey right now
+2. What is their next major milestone
+3. Are they doing the right things to hit that milestone
+4. What will they need from you to help them reach their next milestone?  (services, adivce, help, etc.)
+
+### Success Plan Challenges
+1. Not enought time - to understand customer's definition of succes and build a plan to help the customer
+2. Not enought information about the customer.  At least the perception that there is not enough information.  Why did the cusotmer to you and what problems were they trying to solve.
+3. Not enought value - customer doesn't perceive enought value from the success plan.  The customer doesn't fully engage in the process and its hard to drive more value.  If you are building the plan you need to engage the customer in the plan.  You do the plan to create value for the customer.  First order value for the customer and second order value for you to learn more about your customer.
+4. 
